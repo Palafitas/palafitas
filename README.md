@@ -6,5 +6,6 @@
 [Reddit](https://www.reddit.com/user/Palafitas/)
 [Github](https://github.com/Palafitas)
 [Youtube](https://www.youtube.com/@t_palafitas)
+[Github.io](https://palafitas.github.io/)
 
 ![crazy_eyes.webp](crazy_eyes.webp)
